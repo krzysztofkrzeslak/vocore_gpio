@@ -2,7 +2,7 @@
 this is a simple python module for driving vocore2 gpio
 
 # usage
-Usage is very simple, package provide 2 methods			
+Usage is very simple, package provide 2 methods		
 `setup(gpioNumber, direction)` - setup gpio as output(1) or input(0) 		
 	
 	
