@@ -75,6 +75,15 @@ setup_rules[43]= { GPIO2_MODE_REG : ( {3:0} , {2:1} ) }
 #disable UART1
 setup_rules[45]= { GPIO1_MODE_REG : ( {25:0} , {24:1} ) } 
 setup_rules[46]= { GPIO1_MODE_REG : ( {25:0} , {24:1} ) } 
+#disable SD
+setup_rules[22]= { GPIO1_MODE_REG : ( {11:0} , {10:1} ) }
+setup_rules[23]= { GPIO1_MODE_REG : ( {11:0} , {10:1} ) }
+setup_rules[24]= { GPIO1_MODE_REG : ( {11:0} , {10:1} ) }
+setup_rules[25]= { GPIO1_MODE_REG : ( {11:0} , {10:1} ) }
+setup_rules[26]= { GPIO1_MODE_REG : ( {11:0} , {10:1} ) }
+setup_rules[27]= { GPIO1_MODE_REG : ( {11:0} , {10:1} ) }
+setup_rules[28]= { GPIO1_MODE_REG : ( {11:0} , {10:1} ) }
+setup_rules[29]= { GPIO1_MODE_REG : ( {11:0} , {10:1} ) }
 
 
 
